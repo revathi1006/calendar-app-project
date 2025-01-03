@@ -1,6 +1,6 @@
 Project Name: Calendar Application for Communication Tracking
 
-Deployment Link of project on Vercel: 
+Deployment Link of project on Vercel: calendar-app-project.vercel.app
 
 To install Dependencies: npm install
 
